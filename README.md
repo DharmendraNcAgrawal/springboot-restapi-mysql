@@ -1,5 +1,5 @@
-# springboot-restapi-oracledb
-springboot-restapi-oracledb + Hibernate + Spring Data JPA 
+# springboot-restapi-mysql
+springboot-restapi-mysql + Hibernate + Spring Data JPA 
 
 swagger
 lombok
